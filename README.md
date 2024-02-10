@@ -1,5 +1,5 @@
 - 🌱 I’m currently pursuing a BS in Computer Science with a minor in Cybersecurity at Fayetteville State University
-- Python, C#, Java
+- Python, C#, Java, SQLite
 
 <!---
 LuisHernandez9/LuisHernandez9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
