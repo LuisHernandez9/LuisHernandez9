@@ -1,6 +1,6 @@
 - 🌱 I’m currently pursuing a BS in Computer Science with a minor in Cybersecurity at Fayetteville State University
 - Lead Researcher at Fayetteville State University
-- Python, C#, Java, SQLite
+- Python, C#, Java, SQL
 - NASA JPL Summer 2024 Intern
 
 <!---
